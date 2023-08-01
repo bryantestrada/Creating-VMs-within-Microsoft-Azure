@@ -1,6 +1,7 @@
 # Create-VMs-within-Azure
 <p align="center">
-<img src="https://i.imgur.com/pU5A58S.png" alt="Microsoft Active Directory Logo"/>
+  <img width="640" alt="logo" src="https://github.com/bryantestrada/Creating-VMs-within-Microsoft-Azure/assets/133170900/46d963ad-a67a-4001-ba5c-9c35a774fb94">
+
 </p>
 
 <h1>Microsoft Azure- Creating Virtual Machines (Virtual Computers)</h1>
